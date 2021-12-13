@@ -1,0 +1,19 @@
+{
+    "name": "mangoodev2",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CzRvpAkLEYjrmvZ1firC5LNxREF5MqY557Ap3VLZbQRa",
+          "share": 100
+        }
+      ]
+    }
+  }
